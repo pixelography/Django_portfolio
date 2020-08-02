@@ -24,7 +24,7 @@ SECRET_KEY = 'rr_!^l^p#kd5k$bpj=t0*zgiyih7^uayxkyk8vrad#$a1g-7l7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['prashaant-resume.herokuapp.com']
 
 # Application definition
 
